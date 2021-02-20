@@ -6,3 +6,4 @@ Online Shopping 홈페이지 실습버전입니다.
 3. JSON
 4. fetch
 5. JavaScript - display items
+6. JavaScript - handling events
