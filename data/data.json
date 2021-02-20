@@ -19,7 +19,7 @@
             "gender": "male",
             "size": "large",
             "color": "yellow",
-            "image": "../img/yello_p.png"
+            "image": "../img/yellow_p.png"
         },
         {
             "type": "skirt",
